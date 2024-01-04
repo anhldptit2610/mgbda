@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "defs.h": "c",
+        "gb.h": "c",
+        "cpu.h": "c"
+    }
+}
